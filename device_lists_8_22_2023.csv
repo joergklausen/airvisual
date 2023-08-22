@@ -1,0 +1,4 @@
+name,serialNumber,registrationNumber,lastSeenAt,registrationDate,isPublic,isConnected,environment
+AVO TWRG,TWRGMDGZ53T,,2023-08-22T13:04:05.149Z,2023-07-11T15:51:20.694Z,false,true,outdoor
+AVO WICH,WICHUO199FK,,2023-08-22T13:04:05.150Z,2023-07-19T07:18:22.693Z,false,true,outdoor
+AVO X15A,X15AI15FEJE,,2023-08-22T13:04:05.150Z,2023-07-19T07:35:03.286Z,false,true,outdoor
