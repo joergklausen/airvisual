@@ -1,0 +1,10 @@
+# latitude, longitude: please provide xxx.xxxx with at least 4 decimals, + for North, - for South
+# powerSuppyly: select one of "48V" or "230V"
+# dataLink: select one of "WiFi" or "SIM" 
+
+name,serialNumber,latitude,longitude,powerSupply,dataLink
+AVO TWRG,TWRGMDGZ53T,
+AVO WICH,WICHUO199FK,
+AVO X15A,X15AI15FEJE,
+
+
