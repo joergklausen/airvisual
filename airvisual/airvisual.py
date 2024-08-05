@@ -31,6 +31,8 @@ def get_recent_data(url: str, type="hourly") -> pl.DataFrame:
         print(err)
 
 def plot_data(df: pl.DataFrame, title: str="", linestyle: str="-", path: str=None) -> None:
+    if df.is_empty() or df is None:
+        return
     try:
         fig, (ax1, ax2, ax3) = plt.subplots(nrows=3, sharex=True, 
                                     figsize=(12, 18), dpi=180)
